@@ -5,7 +5,16 @@ import { Box, Text, TextArea, TextAreaProps } from '@ignite-ui/react'
 export default {
   title: 'Form/TextArea',
   component: TextArea,
-  args: {},
+  args: {
+    disabled: false,
+  },
+  argTypes: {
+    disabled: {
+      control: {
+        type: 'boolean',
+      },
+    },
+  },
   decorators: [
     (Story) => {
       return (
