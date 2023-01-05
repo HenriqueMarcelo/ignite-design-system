@@ -8,9 +8,9 @@ export * from './font-sizes'
 export * from './font-weights'
 export * from './line-heights'
 
-// import { colors } from '#ignite-ui/tokens
+// import { colors } from '#hrq-ignite-ui/tokens
 // instead of
-// import { colors } from '#ignite-ui/tokens/colors
+// import { colors } from '#hrq-ignite-ui/tokens/colors
 
 /*
  * npx tsc --init

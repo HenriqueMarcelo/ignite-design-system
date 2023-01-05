@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@hrq-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -29,10 +29,10 @@
     "vite": "^4.0.3"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@hrq-ignite-ui/eslint-config": "*",
+    "@hrq-ignite-ui/react": "*",
+    "@hrq-ignite-ui/tokens": "*",
+    "@hrq-ignite-ui/ts-config": "*",
     "@radix-ui/react-checkbox": "^1.0.1",
     "@storybook/addon-a11y": "^6.5.15",
     "phosphor-react": "^1.4.1",
