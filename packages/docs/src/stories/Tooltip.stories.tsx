@@ -1,6 +1,12 @@
 import type { StoryObj, Meta } from '@storybook/react'
 
-import { Box, Text, Tooltip, TooltipProvider } from '@hrq-ignite-ui/react'
+import {
+  Box,
+  Text,
+  Tooltip,
+  TooltipProps,
+  TooltipProvider,
+} from '@hrq-ignite-ui/react'
 
 export default {
   title: 'Data display/Tooltip',
@@ -16,11 +22,6 @@ export default {
         type: null,
       },
     },
-    text: {
-      control: {
-        type: null,
-      },
-    },
   },
 
   decorators: [
@@ -32,6 +33,6 @@ export default {
       )
     },
   ],
-} as Meta<any>
+} as Meta<TooltipProps>
 
-export const Primary: StoryObj<any> = {}
+export const Primary: StoryObj<TooltipProps> = {}

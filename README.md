@@ -9,9 +9,9 @@
 - [x] Avatar
 - [x] MultiStep
 - [x] Tooltip
-- [ ] Toaster
+- [x] Toaster
 
-npm run changeset
-npm run version-packages
-// npm run release // the release will be running by the CI
-git push origin master
+- npm run changeset
+- npm run version-packages
+- // npm run release // the release will be running by the CI
+- git push origin master

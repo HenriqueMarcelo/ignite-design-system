@@ -3,7 +3,7 @@ import { ReactNode } from 'react'
 import { TooltipArrow, TooltipContent, TooltipRoot } from './styles'
 import './styles.ts'
 
-interface TooltipProps {
+export interface TooltipProps {
   children: ReactNode
   text: string
 }

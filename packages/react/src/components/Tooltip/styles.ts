@@ -1,9 +1,7 @@
 import { styled } from '../../styles'
 import * as TooltipRadix from '@radix-ui/react-tooltip'
 
-export const TooltipRoot = styled(TooltipRadix.Root, {
-  background: 'red',
-})
+export const TooltipRoot = styled(TooltipRadix.Root, {})
 
 export const TooltipContent = styled(TooltipRadix.Content, {
   borderRadius: '$sm',
