@@ -11,4 +11,5 @@
 
 npm run changeset
 npm run version-packages
-// the release will be running by the CI
+// npm run release // the release will be running by the CI
+git push origin master
