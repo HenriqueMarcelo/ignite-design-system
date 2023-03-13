@@ -35,7 +35,7 @@ We would be happy to receive contributions from other developers. Feel free to o
 
 ## Important Commands
 
-`npm run changeset`
-`npm run version-packages`
-`// npm run release // the release will be running by the CI`
-`git push origin master`
+- `npm run changeset`
+- `npm run version-packages`
+- `// npm run release // the release will be running by the CI`
+- `git push origin master`

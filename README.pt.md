@@ -35,7 +35,7 @@ Ficaremos felizes em receber contribuições de outros desenvolvedores. Sinta-se
 
 ## Comandos importantes
 
-`npm run changeset`
-`npm run version-packages`
-`// npm run release // the release will be running by the CI`
-`git push origin master`
+- `npm run changeset`
+- `npm run version-packages`
+- `// npm run release // the release will be running by the CI`
+- `git push origin master`
