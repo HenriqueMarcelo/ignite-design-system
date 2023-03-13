@@ -4,7 +4,8 @@
 
 The Ignite Design System is a complete Design System project built within Rocketseat's Ignite course. It consists of 3 packages that provide developers with the ability to build consistent, high-quality interfaces using the same set of shared values, colors, and information.
 
-The package can be accessed in NPM at https://www.npmjs.com/settings/hrq-ignite-ui/packages
+The package can be accessed in NPM at: https://www.npmjs.com/settings/hrq-ignite-ui/packages
+The documentation can be accessed at: https://henriquemarcelo.github.io/ignite-design-system/?path=/story/home--page
 
 ## Packages
 
